@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-using only html ,CSS and JavaScript
+Using html ,CSS and JavaScript
